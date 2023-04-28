@@ -1,0 +1,13 @@
+<view class="box1">
+  <view class="font">
+    这是标题
+  </view>
+  <image src="/images/1.png" class="image" bindtap="jump" />
+</view>
+<view class="box2">
+          ____________________________________________________
+</view>
+<view class="text">
+  正文内容
+</view>
+  

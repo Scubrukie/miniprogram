@@ -1,0 +1,10 @@
+<view class="text0">注册</view>
+<input class="input0" placeholder="请输入手机号码" placeholder-class="text1"></input>
+<input class="input0" placeholder="请输入密码" placeholder-class="text1"></input>
+<navigator class="Url0" url="/pages/index/index">
+  <text class="text2">返回登陆</text>
+</navigator>
+<button style="color: #dfdfdf;height: 80rpx;width: 630rpx;margin-top: 30rpx;" bindtap="bt">
+  <text style="color: white;">立即注册</text>
+</button>
+

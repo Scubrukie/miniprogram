@@ -1,0 +1,135 @@
+<view class="box1">
+  <picker mode="selector" value="{{index}}" range="{{array}}" class="picker">
+    <view >
+      {{array[index]}}
+    </view>
+  </picker>
+  <image src="/images/7.png" class="iamge1" />
+  <image src="/images/8.png" class="iamge2" />
+</view>
+<view class="box2">
+  2022
+</view>
+<view class="box3">
+  <view class="box4">
+    <view class="text1">
+        这是一个标题
+      </view>
+      <view class="text2">
+        这是编辑时间
+      </view>
+      <image style="position: relative; left: 123rpx; top: -108rpx" src="/images/10.png" class="image3" bindtap="jump"/>
+      <view class="btn1" >
+        分类1
+      </view>
+      <view class="btn2" >
+        分类2
+      </view>
+  </view>
+  <view class="box5">
+    <text class="font">删除</text>
+  </view >
+</view>
+  
+<view class="box6">
+   <view class="box7">
+     <text style="font-size: 40rpx;">02</text>
+     <text style="font-size: 20rpx;">3月</text>
+   </view>
+   <view class="box8">
+    <view class="text1">
+        这是一个标题
+      </view>
+      <view class="text2">
+        这是编辑时间
+      </view>
+      <image style="position: relative; left: 123rpx; top: -108rpx" src="/images/10.png" class="image3" bindtap="jump"/>
+      <view class="btn1" >
+        分类1
+      </view>
+
+  </view>
+</view>
+<view class="box6">
+   <view class="box7">
+     <text style="font-size: 40rpx;">26</text>
+     <text style="font-size: 20rpx;">2月</text>
+   </view>
+   <view class="box8">
+    <view class="text1">
+        这是一个标题
+      </view>
+      <view class="text2">
+        这是编辑时间
+      </view>
+      <image style="position: relative; left: 123rpx; top: -108rpx" src="/images/10.png" class="image3" bindtap="jump"/>
+      <view class="btn1" >
+        分类2
+      </view>
+     
+  </view>
+</view>
+<view class="box2">
+  2021
+</view>
+<view class="box6">
+   <view class="box7">
+     <text style="font-size: 40rpx;">07</text>
+     <text style="font-size: 20rpx;">3月</text>
+   </view>
+   <view class="box8">
+    <view class="text1">
+        这是一个标题
+      </view>
+      <view class="text2">
+        这是编辑时间
+      </view>
+      <image style="position: relative; left: 123rpx; top: -108rpx" src="/images/10.png" class="image3" bindtap="jump"/>
+      <view class="btn1" >
+        分类4
+      </view>
+     
+  </view>
+</view>
+<view class="box6">
+   <view class="box7">
+     <text style="font-size: 40rpx;">02</text>
+     <text style="font-size: 20rpx;">3月</text>
+   </view>
+   <view class="box8">
+    <view class="text1">
+        这是一个标题
+      </view>
+      <view class="text2">
+        这是编辑时间
+      </view>
+      <image style="position: relative; left: 123rpx; top: -108rpx" src="/images/10.png" class="image3" bindtap="jump"/>
+      <view class="btn1" >
+        分类2
+      </view>
+      <view class="btn2" >
+        分类3
+      </view>
+     
+  </view>
+</view>
+<view class="box6">
+   <view class="box7">
+     <text style="font-size: 40rpx;">26</text>
+     <text style="font-size: 20rpx;">2月</text>
+   </view>
+   <view class="box8">
+    <view class="text1">
+        这是一个标题
+      </view>
+      
+      <view class="text2">
+        这是编辑时间
+      </view>
+      <image style="position: relative; left: 123rpx; top: -108rpx" src="/images/10.png" class="image3" bindtap="jump"/>
+      <view class="btn1" >
+        分类1
+      </view>
+  </view>
+</view>
+<image src="/images/9.png" class="image4" bindtap="jump1"/>

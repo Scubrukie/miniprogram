@@ -1,0 +1,42 @@
+.box1{
+  height: 80rpx;
+  display: flex;
+  flex-direction: row;
+}
+.font{
+  font-size: 40rpx;
+  padding-left: 80rpx;
+}
+
+.box2{
+  margin-left: 30rpx;
+  margin-top:-10px;
+}
+.text{
+  margin-top: 30rpx;
+  margin-left: 40rpx;
+  font-size: 40rpx;
+
+}
+.picker{
+  width: 20%;
+  height: 50rpx;
+  font-size: 28rpx;
+  border: solid #333333 1rpx;
+  border-radius: 5%;
+  padding-left: 20rpx;
+  padding-top: 10rpx;
+  margin-left: 200rpx;
+}
+.box3{
+  padding-left: 30%;
+  padding-top: 20rpx;
+  height: 100rpx;
+  width:400rpx;
+  margin-left: 55rpx;
+  margin-right: 30rpx;
+  margin-top: 900rpx;
+  background-color: crimson;
+  color: aliceblue;
+  font-size: 50rpx;
+}

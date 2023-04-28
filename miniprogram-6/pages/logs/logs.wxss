@@ -1,0 +1,25 @@
+.text0{
+  margin: 120rpx 0rpx 20rpx 60rpx;
+  font-size: 18px;
+  font-weight: 1000;
+}
+.text1{
+  font-size: 30rpx;
+  margin-left: 30rpx;
+}
+.text2{
+  color: #0797f7;
+  margin-left: 560rpx;
+}
+.input0{
+  height:70rpx;
+  width: 630rpx;
+  margin:20rpx 0rpx 20rpx 60rpx;
+  border-radius: 4rpx;
+  background-color: #f1f1f1;
+  display: flex;
+  
+}
+.Url0{
+  height: 40rpx;
+}

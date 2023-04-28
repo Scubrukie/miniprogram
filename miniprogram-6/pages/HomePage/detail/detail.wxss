@@ -1,0 +1,24 @@
+.box1{
+  height: 80rpx;
+  display: flex;
+  flex-direction: row;
+}
+.font{
+  font-size: 40rpx;
+  padding-left: 80rpx;
+}
+.image{
+  height: 60rpx;
+  width: 60rpx;
+  margin-left: 350rpx;
+}
+.box2{
+  margin-left: 30rpx;
+  margin-top:-10px;
+}
+.text{
+  margin-top: 30rpx;
+  margin-left: 40rpx;
+  font-size: 40rpx;
+
+}

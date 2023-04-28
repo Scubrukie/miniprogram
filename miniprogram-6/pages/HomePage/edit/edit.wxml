@@ -1,0 +1,23 @@
+<view class="box1">
+  <view class="font">
+    这是标题
+  </view>
+  <picker mode="selector" value="{{index}}" range="{{array}}" class="picker">
+    <view >
+      {{array[index]}}
+    </view>
+  </picker>
+</view>
+<view class="box2">
+          ____________________________________________________
+</view>
+<view class="text">
+  正文内容
+</view>
+<view class="box3">
+  <view>
+     立即保存
+  </view>
+ 
+</view>
+  

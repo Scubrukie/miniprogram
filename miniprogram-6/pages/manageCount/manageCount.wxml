@@ -1,0 +1,12 @@
+<view class="container0">
+  <text class="text0">重设密码</text>
+  <navigator class="url0" url="/pages/changePassword/changePassword">
+    <view class="arrow"></view>
+  </navigator>
+</view>
+<navigator class="url0" style="margin-left: 0rpx;" url="/pages/index/index">
+  <view class="container1">
+    <text class="text0" style="color: white;">退出登录</text>
+    <view class="arrow1"></view>
+  </view>
+</navigator>

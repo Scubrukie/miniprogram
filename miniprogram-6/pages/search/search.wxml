@@ -1,0 +1,22 @@
+<view class="container0">
+  <view class="container1" animation="{{aniMation}}" >
+    <image src="/images/image1.png" class="image1"></image>
+    <input bindfocus="bf" bindblur="bb" placeholder="搜索文本" placeholder-class="text0" class="input0">
+    </input>
+  </view>
+</view>
+<view class="contianer5">
+  <view class="container2">
+    <text class="text1">07<text class="text0">3月</text></text>
+  </view>
+  <view class="container3">
+    <text class="text1">这是一个标题<text class="text0">这是编辑时间</text></text>
+  </view>
+  
+    <navigator url="/pages/index/index" class="Url0">
+      <view class="container4">
+       <view class="arrow"></view>
+      </view>
+    </navigator>
+</view>
+

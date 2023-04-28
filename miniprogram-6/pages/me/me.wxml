@@ -1,0 +1,25 @@
+<view class="container1">
+  <view class="container2">
+    <view class="container3">
+      <image src="/images/image1.png" style="height: 120rpx;width: 120rpx;margin-top: 30rpx;margin-left: 60rpx;border: black solid 1rpx;"></image>
+      <text class="text0">飞翔的企鹅</text>
+      <navigator class="Url0" url="/pages/manageCount/manageCount">
+        <view class="arrow"></view>
+      </navigator> 
+    </view> 
+    <view class="container4">
+        <text class="text0" style="margin-left: 60rpx;margin-top: 40rpx;margin-right: 70rpx;">30\n<text class="text1">笔记</text></text>
+        <view class="line"></view>
+        <text class="text0" style="margin-left: 70rpx;margin-top: 40rpx;margin-right: 70rpx;">10\n<text class="text1">收藏</text></text>
+        <view class="line"></view>
+        <text class="text0" style="margin-left: 70rpx;margin-top: 40rpx;">193\n<text class="text1">字</text></text>
+    </view>
+  </view>
+</view>
+<view class="container5">
+  <text style="margin-left: 10rpx;">分类管理</text>
+  <navigator class="Url0" style="margin-left: 480rpx;margin-top:-18rpx;" url="/pages/index/index">
+      <view class="arrow"></view>
+  </navigator> 
+</view>
+

@@ -1,0 +1,149 @@
+/**index.wxss**/
+.userinfo {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  color: #aaa;
+}
+
+.userinfo-avatar {
+  overflow: hidden;
+  width: 128rpx;
+  height: 128rpx;
+  margin: 20rpx;
+  border-radius: 50%;
+}
+
+.usermotto {
+  margin-top: 200px;
+}
+.box1{
+  margin-top: 30rpx;
+  margin-left: 20rpx;
+  margin-right: 20rpx;
+  height:100rpx;
+  display:flex;
+  flex-direction: row;
+
+}
+.box2{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.box3{
+  width: auto;
+  display: flex;
+  flex-direction: row;
+}
+.box4{
+  margin-left: 20rpx;
+  height: 150rpx;
+  width: 80%;
+  border: solid #333333 1rpx;
+  border-radius: 5%;
+}
+.text1{
+  padding-left: 20rpx;
+  padding-top: 40rpx;
+  font-size: 40rpx;
+  width: 250rpx;
+}
+.text2{
+  padding-left: 20rpx;
+  margin-top: 10rpx;
+  font-size: 20rpx;
+  width: 150rpx;
+  
+}
+.btn1{
+  width: 100rpx;
+  border: solid #333333 1rpx;
+  border-radius: 5%;
+  margin-top:-120rpx;
+  margin-left: 350rpx;
+}
+.btn2{
+  width: 100rpx;
+  border: solid #333333 1rpx;
+  border-radius: 5%;
+  margin-top:-45rpx;
+  margin-left: 450rpx;
+}
+.box5
+{
+  margin-left: 10rpx;
+  height: 120rpx;
+  width: 15%;
+  margin-left: 0px;
+  border-radius: 5%;
+  background-color: crimson;
+  padding-left: 10rpx;
+  padding-top: 30rpx;
+}
+.box6{
+  width: auto;
+  display: flex;
+  flex-direction: row;
+}
+.box7{
+  margin-left: 30rpx;
+  margin-top: 20rpx;
+  height:120rpx;
+  width:10%;
+  display: flex;
+  flex-direction: column;
+  border: solid #333333 1rpx;
+  border-radius: 8%;
+  padding-left: 15rpx;
+  padding-top: 15rpx;
+
+}
+.box8{
+  margin-left: 0rpx;
+  margin-top: 20rpx;
+  height: 140rpx;
+  width: 80%;
+  border: solid #333333 1rpx;
+  border-radius: 5%;
+}
+.font{
+  font-size:40rpx ;
+  color: aliceblue;
+}
+.picker{
+  width: 40%;
+  height: 50rpx;
+  font-size: 28rpx;
+  border: solid #333333 1rpx;
+  border-radius: 5%;
+  padding-left: 20rpx;
+  padding-top: 10rpx;
+}
+.iamge1{
+  width: 100rpx;
+  height:80rpx;
+  margin-left: 200rpx;
+}
+.iamge1{
+  width: 80rpx;
+  height:80rpx;
+  margin-left: 200rpx;
+}
+.iamge2{
+  width: 80rpx;
+  height:80rpx;
+  margin-left: 20rpx;
+}
+.image3{
+  width: 80rpx;
+  height:80rpx;
+  margin-left: 400rpx;
+}
+.image4{
+  margin-top: 10rpx;
+  margin-right: 20rpx;
+  margin-left: 600rpx;
+  width: 100rpx;
+  height: 100rpx;
+}
